@@ -2,6 +2,14 @@
 
 Javier here; I'm a computer scientist with experience in medical imaging analysis and a huge interest in computer vision-related projects.
 
+<!-- GitHub streak stats from https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- Live configuration demo https://github-readme-streak-stats.herokuapp.com/demo/ -->
+<!--
+![Javier's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=guaje&theme=transparent&hide_border=true&&fire=FB8C00&&mode=daily&exclude_days=Sun%2CSat)
+![Javier's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=guaje&theme=transparent&hide_border=true&&fire=FB8C00&&mode=weekly&hide_total_contributions=true)
+-->
+![Javier's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=guaje&theme=transparent&hide_border=true&&fire=FB8C00&&mode=weekly)
+
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=guaje&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&theme=transparent&hide_rank=true&custom_title=GitHub%20Stats%20(public%20repos):&text_bold=false" />
@@ -21,5 +29,14 @@ TODO: Deploy own instance to show private statistics
 
 <!--
 TODO: Deploy own instance to show private statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guaje&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Javier's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guaje&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
  -->
+
+<!-- GitHub contributor stats from https://github.com/HwangTaehyun/github-repository-contribution-stats -->
+<!--
+![Javier's Contributor Stats](https://github-contributor-stats.vercel.app/api?username=guaje&limit=5&combine_all_yearly_contributions=true&theme=transparent&hide_border=true)
+-->
+
+<!--
+[![](https://visitcount.itsvg.in/api?id=guaje&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
