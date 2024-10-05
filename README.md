@@ -5,10 +5,10 @@ Javier here; I'm a computer scientist with experience in medical imaging analysi
 <!-- GitHub streak stats from https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Live configuration demo https://github-readme-streak-stats.herokuapp.com/demo/ -->
 <!--
-![Javier's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=guaje&theme=transparent&hide_border=true&&fire=FB8C00&&mode=daily&exclude_days=Sun%2CSat)
-![Javier's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=guaje&theme=transparent&hide_border=true&&fire=FB8C00&&mode=weekly&hide_total_contributions=true)
+[![Javier's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=guaje&theme=transparent&hide_border=true&&fire=FB8C00&&mode=daily&exclude_days=Sun%2CSat)](https://github.com/denvercoder1/github-readme-streak-stats)
+[![Javier's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=guaje&theme=transparent&hide_border=true&&fire=FB8C00&&mode=weekly&hide_total_contributions=true)](https://github.com/denvercoder1/github-readme-streak-stats)
 -->
-![Javier's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=guaje&theme=transparent&hide_border=true&&fire=FB8C00&&mode=weekly)
+[![Javier's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=guaje&theme=transparent&hide_border=true&&fire=FB8C00&&mode=weekly)](https://github.com/denvercoder1/github-readme-streak-stats)
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -34,7 +34,7 @@ TODO: Deploy own instance to show private statistics
 
 <!-- GitHub contributor stats from https://github.com/HwangTaehyun/github-repository-contribution-stats -->
 <!--
-![Javier's Contributor Stats](https://github-contributor-stats.vercel.app/api?username=guaje&limit=5&combine_all_yearly_contributions=true&theme=transparent&hide_border=true)
+[![Javier's Contributor Stats](https://github-contributor-stats.vercel.app/api?username=guaje&limit=5&combine_all_yearly_contributions=true&theme=transparent&hide_border=true)](https://github.com/HwangTaehyun/github-repository-contribution-stats)
 -->
 
 <!--
