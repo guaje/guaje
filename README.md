@@ -7,8 +7,13 @@ Javier here; I'm a computer scientist with experience in medical imaging analysi
 <!--
 [![Javier's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=guaje&theme=transparent&hide_border=true&&fire=FB8C00&&mode=daily&exclude_days=Sun%2CSat)](https://github.com/denvercoder1/github-readme-streak-stats)
 [![Javier's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=guaje&theme=transparent&hide_border=true&&fire=FB8C00&&mode=weekly&hide_total_contributions=true)](https://github.com/denvercoder1/github-readme-streak-stats)
--->
 [![Javier's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=guaje&theme=transparent&hide_border=true&&fire=FB8C00&&mode=weekly)](https://github.com/denvercoder1/github-readme-streak-stats)
+-->
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guaje&theme=transparent&hide_border=true&&fire=FB8C00&&mode=weekly" />
+</a>
+
+<br>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
